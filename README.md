@@ -96,6 +96,5 @@ This generates visualizations of strategy performance.
 ## Requirements
 
 - Python 3.8+
-- NumPy
 - Pandas
 - Matplotlib
